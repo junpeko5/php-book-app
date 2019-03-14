@@ -26,3 +26,5 @@
 /app/Config/database.php
 /vendors/*
 
+/Docker/mysql/data/*
+!/Docker/mysql/data/.gitkeep
